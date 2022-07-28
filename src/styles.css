@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    
+}
+
+h2{
+    color: green;
+    font-size: 26px !important;
+    font-weight: bold;
+    padding: 20px 15px 10px 15px !important;
+    text-align: right !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin-bottom: 20px;
+}
+
+hr{
+    background-color: green !important;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

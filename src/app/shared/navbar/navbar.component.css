@@ -1,0 +1,13 @@
+.bg-dark{
+    background: #e67300!important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #000 !important;
+   
+}
+
+.navbar{
+    height:  70px !important;
+    line-height: 70px !important;
+}
